@@ -1,4 +1,7 @@
 WriteTrip Support
-Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? 
+
+1. How can I get my book PDF?
+Once you complete your trip, view your entire trip book, revisit the book page. A share button will appear.
+It will allow you to share your book.
